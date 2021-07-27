@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,eAAgB,CAChB,gBAAiB,CACjB,QACF","file":"main.a52075e9.chunk.css","sourcesContent":["body {\r\n  min-width: 100vw;\r\n  min-height: 100vh;\r\n  margin: 0;\r\n}"]}
